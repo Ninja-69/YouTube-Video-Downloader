@@ -1,0 +1,5 @@
+{
+  "name": "StreamFlow & PixelCraft",
+  "description": "A dual-purpose application featuring a high-fidelity UI for a YouTube Video Downloader simulation and a fully functional AI Image Generator using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
