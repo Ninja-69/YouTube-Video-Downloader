@@ -20,9 +20,9 @@
     <br />
     <a href="#-installation">View Demo</a>
     ·
-    <a href="https://github.com/yourusername/streamflow/issues">Report Bug</a>
+    <a href="https://github.com/Ninja-69/YouTube-Video-Downloader/issues">Report Bug</a>
     ·
-    <a href="https://github.com/yourusername/streamflow/pulls">Request Feature</a>
+    <a href="https://github.com/Ninja-69/YouTube-Video-Downloader/pulls">Request Feature</a>
   </p>
 </div>
 
@@ -85,10 +85,10 @@ graph LR
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/streamflow.git
+git clone https://github.com/Ninja-69/YouTube-Video-Downloader.git
 
 # Navigate to root
-cd streamflow
+cd YouTube-Video-Downloader
 
 # Install dependencies
 npm install
@@ -144,7 +144,7 @@ const VPS_API_URL = 'http://YOUR_VPS_IP:5000';
 ## 📂 Project Structure
 
 ```text
-streamflow/
+YouTube-Video-Downloader/
 ├── public/              # Static assets
 ├── components/          # React UI Components
 │   ├── YouTubeDownloader.tsx  # Main Logic
@@ -187,5 +187,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
   <p>
     Built with ❤️ by <b>StreamFlow Systems</b>
   </p>
-  <img src="https://img.shields.io/github/last-commit/yourusername/streamflow?style=flat-square&color=059669" alt="Last Commit">
+  <img src="https://img.shields.io/github/last-commit/Ninja-69/YouTube-Video-Downloader?style=flat-square&color=059669" alt="Last Commit">
 </div>
